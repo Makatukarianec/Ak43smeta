@@ -1,7 +1,7 @@
 Быстрый старт:   
 Скачать архив с программой    
 Распаковать на диск или флэшку    
-Запуск - ak43smeta-v1.0beta.exe
+Запуск - ak43smeta_v1.0_beta.exe
 
 [📥 Скачать (Windows 10/11)](https://github.com/Makatukarianec/Ak43smeta/releases/latest)
 
